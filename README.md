@@ -12,9 +12,9 @@ Follow these steps to install and run the project locally:
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/your-repo.git
-   cd your-repository
+```bash
+git clone https://github.com/YOUR_USERNAME/your-repo.git
+cd your-repository
 
 2. **Create and activate a virtual environment**
 
